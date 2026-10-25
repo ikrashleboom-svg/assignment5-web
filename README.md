@@ -4,7 +4,7 @@
 **Group:** SE-2539
 
 **Link page**
-- GitHub Pages: https://YOUR-USERNAME.github.io/assignment5-web/
+- GitHub Pages: https://ikrashleboom-svg.github.io/assignment5-web/
 
 
 ---
